@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 alarmManager.cancel(pendingIntent);
                 MyService.mediaPlayer.stop();
                 MyService.mediaPlayer.reset();
+                Toast.makeText(MainActivity.this, "dwqdqwdqwdqw", Toast.LENGTH_SHORT).show();
             }
         });
     }
