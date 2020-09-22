@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
                 MyService.mediaPlayer.stop();
                 MyService.mediaPlayer.reset();
                 Toast.makeText(MainActivity.this, "dwqdqwdqwdqw", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "dwqdwqd", Toast.LENGTH_SHORT).show();
             }
         });
     }
