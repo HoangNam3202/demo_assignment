@@ -66,9 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "dwqdqwdqwdqw", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "dwqdwqd", Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "ble", Toast.LENGTH_SHORT).show();
-                Toast.makeText(MainActivity.this, "dwqdwqd", Toast.LENGTH_SHORT).show();
-                Toast.makeText(MainActivity.this, "dw", Toast.LENGTH_SHORT).show();
-                Toast.makeText(MainActivity.this, "dw1", Toast.LENGTH_SHORT).show();
+
             }
         });
     }
